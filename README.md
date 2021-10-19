@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MegsForPresident
+- 👋 Hi, I’m @Pleague_Jumper
 - 👀 I’m interested in programming, music, chemistry and physics
 - 🌱 I’m currently aspiring to learn web development 
 - 📫 How to reach me Snappy_Ox#7866 on discord(I don't read emails)
