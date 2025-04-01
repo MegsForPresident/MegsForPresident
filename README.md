@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pleague_Jumper
-- 👀 I’m interested in programming, music, chemistry and physics
-- 🌱 I’m currently aspiring to learn web development 
-- 📫 How to reach me Snappy_Ox#7866 on discord(I don't read emails)
+- 👋 Hi, I’m Waves_of_Shock
+- 👀 I’m interested in programming, Robotics, and Computer Architecture
+- 🌱 I’m currently aspiring to learn Mechatronics
+- 📫 pramitmajumder404@gmail.com
 
 <!---
 MegsForPresident/MegsForPresident is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
